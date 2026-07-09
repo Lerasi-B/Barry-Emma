@@ -5,8 +5,7 @@ Matriculation Number: U2020/3020057
 
 
 
-Name: Emmanuel A. Ogbu<p style="color:indigo;">Name: Lerasi Barididum</a>
-
+Name: Emmanuel A. Ogbu
 
 Matriculation Number: U2020/3020070
 
