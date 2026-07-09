@@ -1,5 +1,5 @@
 # Welcome to Cloud Computing
-Name: Lerasi Barididum
+#Name: Lerasi Barididum
 
 Matriculation Number: U2020/3020057
 
